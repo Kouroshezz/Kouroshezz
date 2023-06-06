@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Kourosh, a Front-end web developer working both as a full-time employee and a freelancer since 2018🚀💻</div>  
